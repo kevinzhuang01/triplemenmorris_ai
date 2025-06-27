@@ -32,7 +32,7 @@ This is my python implementation of the classic Three Men's Morris game (3x3 boa
 
 2. Run the game:
     ```bash
-    python3 threemanmorris.py
+    python3 threemenmorris.py
     ```
 
 
